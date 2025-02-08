@@ -1,7 +1,6 @@
 {
   "name": "ioBroker",
   "version": "0.8.0",
-  "image": "ScurvySt3v3/homeassistant-addon-iobroker-{arch}",
   "webui": "http://[HOST]:[PORT:8081]/",
   "slug": "iobroker",
   "description": "Open source automation platform",

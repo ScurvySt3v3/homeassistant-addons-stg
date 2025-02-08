@@ -39,7 +39,6 @@
     "8088/tcp": "reserved for addition addons",
     "8089/tcp": "reserved for addition addons"
   },
-  "stage": "experimental",
   "url": "https://github.com/ScurvySt3v3/homeassistant-addons-stg/",
   "hassio_role": "default",
   "hassio_api": true

@@ -17,27 +17,10 @@
     "eval": "str?"
   },
   "ports": {
-    "8081/tcp": 8081,
-    "8082/tcp": null,
-    "8083/tcp": null,
-    "8084/tcp": null,
-    "8085/tcp": null,
-    "8086/tcp": null,
-    "8087/tcp": null,
-    "8088/tcp": null,
-    "8089/tcp": null
+    "8081/tcp": 8081
   },
   "ports_description": {
     "8081/tcp": "Admin interface",
-    "8082/tcp": "reserved for addition addons",
-    "8083/tcp": "reserved for addition addons",
-    "8084/tcp": "reserved for addition addons",
-    "8085/tcp": "reserved for addition addons",
-    "8086/tcp": "reserved for addition addons",
-    "8087/tcp": "reserved for addition addons",
-    "8088/tcp": "reserved for addition addons",
-    "8089/tcp": "reserved for addition addons"
-  },
   "url": "https://github.com/ScurvySt3v3/homeassistant-addons-stg/",
   "hassio_api": true
 }

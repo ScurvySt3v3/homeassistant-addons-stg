@@ -1,6 +1,6 @@
 {
   "build_from": {
-    "aarch64": "buanet/iobroker:latest-arm64",
+    "aarch64": "buanet/iobroker:latest",
     "amd64": "buanet/iobroker:latest-amd64",
     "armv7": "buanet/iobroker:latest-armv7hf",
     "armhf": "buanet/iobroker:latest-armhf"

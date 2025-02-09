@@ -20,7 +20,7 @@
     "8081/tcp": 8081
   },
   "ports_description": {
-    "8081/tcp": "Admin interface",
+    "8081/tcp": "Admin interface"
   },
   "url": "https://github.com/ScurvySt3v3/homeassistant-addons-stg/",
   "hassio_api": true
